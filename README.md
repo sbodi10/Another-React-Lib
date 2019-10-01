@@ -63,4 +63,4 @@ Oh and I was able to get this project up and running by using `nwb`, which is an
 
 If you want to contribute for Hacktoberfest 2019, be sure to check out [how to contribute](https://github.com/NehemiahK/Another-React-Lib/blob/master/CONTRIBUTING.md). If you want to be eligible for your free Hacktoberfest shirt and stickers then be sure to register. https://hacktoberfest.digitalocean.com/ 
 
-Feel free to make all four of your pull requests here or feel free to spread them out across other respositories. 
+Feel free to make all five of your pull requests here or feel free to spread them out across other respositories. 
